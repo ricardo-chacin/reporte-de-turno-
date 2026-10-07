@@ -1,0 +1,16 @@
+# Logos de la empresa
+assets/logo*.png
+*.ico
+
+# Datos reales de producción
+*.xlsx
+*.db
+*.sqlite
+
+# Entorno y build
+.venv/
+venv/
+__pycache__/
+build/
+dist/
+*.spec
